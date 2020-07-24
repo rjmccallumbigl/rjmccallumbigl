@@ -30,8 +30,13 @@ Skills: Google Apps Script, JavaScript, HTML, CSS, Azure PowerShell, Front End D
 🤔 I’m looking for help with Front End Development 
 
 💬 Ask me about Google Apps Script 
+
 📫 How to reach me: Ping me/IM me/DM me/Email me 
+
 😄 Pronouns: He/Him 
+
 ⚡ Fun fact: I also rap 🤘🏿 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjmccallumbigl&show_icons=true)  ![Profile views](https://gpvc.arturio.dev/rjmccallumbigl)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjmccallumbigl&show_icons=true)
+
+![Profile views](https://gpvc.arturio.dev/rjmccallumbigl)  
