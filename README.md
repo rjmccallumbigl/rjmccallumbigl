@@ -40,3 +40,5 @@ Skills: Google Apps Script, JavaScript, HTML, CSS, Azure PowerShell, Front End D
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjmccallumbigl&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/rjmccallumbigl)  
+
+(Thank you [Arturs](https://github.com/arturssmirnovs/github-profile-readme-generator) for the generator!)
