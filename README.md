@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋🏿, I'm Ryan!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rjmccallumbigl) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='reddit' height='40'>](https://www.reddit.com/user/ryanmcslomo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ryanmcslomo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ryanjonathanmccallum/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ryanjmccallum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ryanmcslomo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ryanmcslomo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7954017)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/playlist/6vyFk9ZoOAKnaqexRGWeiE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cashapp.svg' alt='cashapp' height='40'>](https://cash.app/$ryanmcslomo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/paypal.svg' alt='paypal' height='40'>](https://paypal.me/ryanmcslomo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg' alt='buymeacoffee' height='40'>](https://www.buymeacoffee.com/ryanmcslomo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ko-fi.svg' alt='ko-fi' height='40'>](https://ko-fi.com/ryanmcslomo)  
-
-![== @rjmccallumbigl ==](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjmccallumbigl&show_icons=true)
+<!-- ![== @rjmccallumbigl ==](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 IT professional with an interest in Front End development.
 
@@ -37,8 +37,11 @@ Skills: Google Apps Script, JavaScript, HTML, CSS, Azure PowerShell, Front End D
 
 ⚡ Fun fact: I love Hip Hop 🤘🏿 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjmccallumbigl&show_icons=true)
-
 ![Profile views](https://gpvc.arturio.dev/rjmccallumbigl)  
 
-(Thank you [Arturs](https://github.com/arturssmirnovs/github-profile-readme-generator) for the generator!)
+<!-- (Thank you [Arturs](https://github.com/arturssmirnovs/github-profile-readme-generator) for the generator!) -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rjmccallumbigl&theme=dark&stroke=1C37DD&border=1C37DD&fire=DD2727&currStreakNum=DD2727&ring=DD8D2D&currStreakLabel=DD8D2D&sideNums=DD8D2D&sideLabels=DD8D2D&dates=DD8D2D)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rjmccallumbigl&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
