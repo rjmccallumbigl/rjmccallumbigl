@@ -42,7 +42,7 @@ Skills: Google Apps Script, JavaScript, HTML, CSS, Azure PowerShell, Front End D
 
 <!-- (Thank you [Arturs](https://github.com/arturssmirnovs/github-profile-readme-generator) for the generator!) -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rjmccallumbigl&theme=dark&stroke=1C37DD&border=1C37DD&fire=DD2727&currStreakNum=DD2727&ring=DD8D2D&currStreakLabel=DD8D2D&sideNums=DD8D2D&sideLabels=DD8D2D&dates=DD8D2D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rjmccallumbigl&theme=dark&stroke=1C37DD&border=C3D1D9&fire=C3D1D9&currStreakNum=1F6FEB&ring=58A6FF&currStreakLabel=58A6FF&sideNums=1F6FEB&sideLabels=58A6FF&dates=C3D1D9)](https://git.io/streak-stats)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rjmccallumbigl&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
