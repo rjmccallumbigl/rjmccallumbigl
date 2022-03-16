@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjmccallumbigl&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)
 <!-- ![== @rjmccallumbigl ==](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-IT professional with an interest in Front End development.
+IT professional with an interest in general scripting.
 
-Skills: Google Apps Script, JavaScript, HTML, CSS, Azure PowerShell, Front End Development, IT Support, Cloud Computing
+Skills: Google Apps Script, Azure PowerShell, Front End Development, IT Support, Cloud Computing
 
 🔭 I’m currently working on Azure PowerShell 
 
