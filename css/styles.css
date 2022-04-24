@@ -1,6 +1,5 @@
 :root {
     color-scheme: light dark;
-    /* both supported */
 }
 
 body {
@@ -32,8 +31,18 @@ a:hover {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 5vw;
     font-family: "Helvetica", "Arial", "Sans-Serif";
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+
+@media (max-width: 500px) {
+    h1 {
+        font-size: 2em;
+    }
 }
 
 p {
@@ -42,9 +51,16 @@ p {
     color: #333;
 }
 
+@media (prefers-color-scheme: dark) {
+    p {
+        color: rgb(105, 105, 105);
+    }
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: 0.8em;
+    text-align: center;
 }
 
 ul.posts {
